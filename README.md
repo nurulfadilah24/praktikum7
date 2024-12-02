@@ -130,3 +130,4 @@ Daftar Nilai
 [(L)ihat (T)ambah (U)bah (H)apus (K)eluar] : K
 Program selesai.
 ````
+![Flowchart](\flowchart.jpg)
